@@ -20,4 +20,4 @@ I've created different web projects with different programming languages. Such a
 
 <img src="https://www.ajinkyacodes.com/assets/images/wfh.png" width="250">
 
-<p>You can visit my website [ajinkyacodes.com](https://ajinkyacodes.com) for more info.</p>
+<p>You can visit my website <a href="https://ajinkyacodes.com" target="_blank">ajinkyacodes.com</a> for more info.</p>
