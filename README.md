@@ -16,8 +16,8 @@ I've created different web projects with different programming languages. Such a
 - CSS
 - HTML
 
-## ABOUT ME
+## About Me
 
-<img align="center" src="https://www.ajinkyacodes.com/assets/images/wfh.png" width="250">
+<img src="https://www.ajinkyacodes.com/assets/images/wfh.png" width="250">
 
 <p>You can visit my website [ajinkyacodes.com](https://ajinkyacodes.com) for more info.</p>
