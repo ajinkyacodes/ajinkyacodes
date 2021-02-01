@@ -4,7 +4,7 @@ Hello everyone. My name is Ajinkya. I am a Software Engineer. I live in Navi Mum
 
 ## Frameworks Wellknown
 - PHP Laravel
-- VueJS
+- ReactJS
 
 ## Programming Languages
 
