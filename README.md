@@ -18,10 +18,11 @@ I've created different web projects with different programming languages. Such a
 
 ## About Me
 
-<a href="https://ajinkyacodes.com" target="_blank" title ="ajinkyacodes"><img src="https://www.ajinkyacodes.com/assets/default/apple.png" width="150"></a>
-<a href="https://ajinkyacodes.com" target="_blank" title ="ajinkyacodes"><img src="https://www.ajinkyacodes.com/assets/default/wfh.png" width="150"></a>
-<a href="https://ajinkyacodes.com" target="_blank" title ="ajinkyacodes"><img src="https://www.ajinkyacodes.com/assets/default/busy.png" width="150"></a>
-<a href="https://ajinkyacodes.com" target="_blank" title ="ajinkyacodes"><img src="https://www.ajinkyacodes.com/assets/default/working-late.png" width="150"></a>
-<a href="https://ajinkyacodes.com" target="_blank" title ="ajinkyacodes"><img src="https://www.ajinkyacodes.com/assets/default/good-week.png" width="150"></a>
+<a href="https://ajinkyacodes.com" target="_blank" title ="ajinkyacodes"><img src="https://www.ajinkyacodes.com/assets/default/apple.png" width="125"></a>
+<a href="https://ajinkyacodes.com" target="_blank" title ="ajinkyacodes"><img src="https://www.ajinkyacodes.com/assets/default/wfh.png" width="125"></a>
+<a href="https://ajinkyacodes.com" target="_blank" title ="ajinkyacodes"><img src="https://www.ajinkyacodes.com/assets/default/busy.png" width="125"></a>
+<a href="https://ajinkyacodes.com" target="_blank" title ="ajinkyacodes"><img src="https://www.ajinkyacodes.com/assets/default/working-late.png" width="125"></a>
+<a href="https://ajinkyacodes.com" target="_blank" title ="ajinkyacodes"><img src="https://www.ajinkyacodes.com/assets/default/good-week.png" width="125"></a>
+<a href="https://open.spotify.com/playlist/0q2TOW21imzfgAmvXYuLwc?si=Xr7xhnKqT4iVeN6Iu9pDYQ" target="_blank" title ="Coding Tracks"><img src="https://www.ajinkyacodes.com/assets/default/coding_tracks_spotify.jpg" width="125"></a>
 
 <p>You can visit my website <a href="https://ajinkyacodes.com" target="_blank">ajinkyacodes.com</a> for more info.</p>
