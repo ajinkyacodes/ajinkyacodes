@@ -31,7 +31,4 @@
 [<img align="left" alt="TypeScript" height ="42px" src="assets/images/typescript.png">](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 [<img align="left" alt="Git" height ="42px" src="assets/images/git.png">](https://git-scm.com/doc)
 [<img align="left" alt="AWS" height ="42px" src="assets/images/aws.png">](https://docs.aws.amazon.com/)
-[<img align="left" alt="Docker" height ="42px" src="assets/images/docker.png">](https://docs.docker.com/)&nbsp; 
-<br>&nbsp; 
-## :technologist: ajinkyacodes
-You can visit my website [ajinkyacodes.com](https://ajinkyacodes.com) for more info.
+[<img align="left" alt="Docker" height ="42px" src="assets/images/docker.png">](https://docs.docker.com/) 
