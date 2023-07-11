@@ -10,17 +10,17 @@
 # 💻 Recent Projects 
 
 ### JavaScript Apps [:memo:](https://github.com/ajinkyacodes/javascript-apps)
-- [Movies App](https://ajinkyacodes.github.io/javascript-apps/movies-app/)
-- [Music Player](https://ajinkyacodes.github.io/javascript-apps/music-player/)
-- [Calculator](https://ajinkyacodes.github.io/javascript-apps/calculator/)
-- [Drink Water](https://ajinkyacodes.github.io/javascript-apps/drink-water/)
-- [Weather Forecast](https://ajinkyacodes.github.io/javascript-apps/weather-forecast/)
-- [Random Jokes](https://ajinkyacodes.github.io/javascript-apps/random-jokes/)
-- [Password Generator](https://ajinkyacodes.github.io/javascript-apps/password-generator/)
-- [Light/Dark Mode](https://ajinkyacodes.github.io/javascript-apps/light-dark-mode/)
-- [Rotating Navigation](https://ajinkyacodes.github.io/javascript-apps/rotating-navigation/)
-- [Netflix Navigation](https://ajinkyacodes.github.io/javascript-apps/netflix-navigation/)
-- [Infinite Scroll](https://ajinkyacodes.github.io/javascript-apps/infinite-scroll/)
+- Movies App [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/movies-app/)
+- Music Player [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/music-player/)
+- Calculator [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/calculator/)
+- Drink Water [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/drink-water/)
+- Weather Forecast [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/weather-forecast/)
+- Random Jokes [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/random-jokes/)
+- Password Generator [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/password-generator/)
+- Light/Dark Mode [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/light-dark-mode/)
+- Rotating Navigation [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/rotating-navigation/)
+- Netflix Navigation [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/netflix-navigation/)
+- Infinite Scroll [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/infinite-scroll/)
 
 ### 🔨 Languages and Tools:
 
