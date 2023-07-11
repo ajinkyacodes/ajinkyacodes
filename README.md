@@ -7,8 +7,19 @@
 - 👁️ CSS, Bootstrap
 - 💽 MongoDB
 
-## 💻 Recent Projects
-- [javascript-apps](https://github.com/ajinkyacodes/javascript-apps)
+# 💻 Recent Projects 
+## [JavaScript Apps](https://github.com/ajinkyacodes/javascript-apps)
+- [Movies App](https://ajinkyacodes.github.io/javascript-apps/movies-app/)
+- [Music Player](https://ajinkyacodes.github.io/javascript-apps/music-player/)
+- [Calculator](https://ajinkyacodes.github.io/javascript-apps/calculator/)
+- [Drink Water](https://ajinkyacodes.github.io/javascript-apps/drink-water/)
+- [Weather Forecast](https://ajinkyacodes.github.io/javascript-apps/weather-forecast/)
+- [Random Jokes](https://ajinkyacodes.github.io/javascript-apps/random-jokes/)
+- [Password Generator](https://ajinkyacodes.github.io/javascript-apps/password-generator/)
+- [Light/Dark Mode](https://ajinkyacodes.github.io/javascript-apps/light-dark-mode/)
+- [Rotating Navigation](https://ajinkyacodes.github.io/javascript-apps/rotating-navigation/)
+- [Netflix Navigation](https://ajinkyacodes.github.io/javascript-apps/netflix-navigation/)
+- [Infinite Scroll](https://ajinkyacodes.github.io/javascript-apps/infinite-scroll/)
 
 ### 🔨 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="assets/images/javascript.png"> </a>
