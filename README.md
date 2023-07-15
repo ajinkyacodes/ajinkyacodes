@@ -25,6 +25,7 @@
 - Rotating Navigation [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/rotating-navigation/)
 - Netflix Navigation [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/netflix-navigation/)
 - Infinite Scroll [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/infinite-scroll/)
+- New Year Countdown [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/new-year-countdown/)
 
 ### 🔨 Languages and Tools:
 
