@@ -17,6 +17,7 @@
 - Music Player [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/music-player/)
 - Calculator [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/calculator/)
 - Text Reader [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/text-reader)
+- Tic tac Toe [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/tic-tac-toe-basic/)
 - Drink Water [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/drink-water/)
 - Weather Forecast [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/weather-forecast/)
 - Random Jokes [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/random-jokes/)
