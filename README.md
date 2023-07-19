@@ -26,6 +26,7 @@
 - Light/Dark Mode [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/light-dark-mode/)
 - Rotating Navigation [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/rotating-navigation/)
 - Netflix Navigation [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/netflix-navigation/)
+- Solar System [:globe_with_meridians:](https://ajinkyacodes.github.io/solar-system/)
 - Infinite Scroll [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/infinite-scroll/)
 - New Year Countdown [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/new-year-countdown/)
 
