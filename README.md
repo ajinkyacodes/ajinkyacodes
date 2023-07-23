@@ -16,7 +16,7 @@
 - Movies App [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/movies-app/)
 - Music Player [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/music-player/)
 - Calculator [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/calculator/)
-- Exchange Rate [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/exchange-rate/)
+- Currency Exchange [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/currency-exchange/)
 - Expense Tracker [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/expense-tracker/)
 - Text Reader [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/text-reader)
 - Tic tac Toe [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/tic-tac-toe-basic/)
