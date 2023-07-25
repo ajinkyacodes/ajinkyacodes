@@ -20,6 +20,7 @@
 - Expense Tracker [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/expense-tracker/)
 - Text Reader [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/text-reader)
 - Tic tac Toe [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/tic-tac-toe-basic/)
+- Rock Paper Scissors [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/rock-paper-scissors/)
 - Movie Booking [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/movie-booking/)
 - Drink Water [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/drink-water/)
 - Weather Forecast [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/weather-forecast/)
