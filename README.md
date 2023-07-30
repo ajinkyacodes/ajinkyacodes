@@ -18,6 +18,7 @@
 - Spotify Music [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/spotify-music/)
 - Calculator [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/calculator/)
 - Currency Exchange [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/currency-exchange/)
+- TODO List [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/todolist/)
 - Expense Tracker [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/expense-tracker/)
 - Text Reader [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/text-reader)
 - Tic tac Toe [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/tic-tac-toe-basic/)
