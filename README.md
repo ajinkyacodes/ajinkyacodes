@@ -15,7 +15,7 @@
 ### JavaScript Apps [:memo:](https://github.com/ajinkyacodes/javascript-apps)
 - Movies App [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/movies-app/)
 - Music Player [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/music-player/)
-- Spotify Music [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/spotify-music/)
+- Spotify Playlist [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/spotify-playlist/)
 - Calculator [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/calculator/)
 - Currency Exchange [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/currency-exchange/)
 - TODO List [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/todolist/)
