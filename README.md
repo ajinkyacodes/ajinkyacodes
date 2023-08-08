@@ -13,8 +13,8 @@
 - Task Tracker [:memo:](https://github.com/ajinkyacodes/reactjs-task-tracker)
 
 ### JavaScript Apps [:memo:](https://github.com/ajinkyacodes/javascript-apps)
-- Spotify Playlist [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/spotify-playlist/) [:iphone:](https://ajinkyacodes.github.io/javascript-apps/spotify-playlist/android/)
-- Expense Tracker [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/expense-tracker/) [:iphone:](https://ajinkyacodes.github.io/javascript-apps/expense-tracker/android/)
+- Spotify Playlist [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/spotify-playlist/)
+- Expense Tracker [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/expense-tracker/)
 - Movies App [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/movies-app/)
 - Music Player [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/music-player/)
 - Calculator [:globe_with_meridians:](https://ajinkyacodes.github.io/javascript-apps/calculator/)
