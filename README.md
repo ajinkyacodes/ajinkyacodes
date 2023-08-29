@@ -17,6 +17,7 @@
 - Currency Converter [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.currencyconverter)
 - Wallet [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.wallet)
 - English Jokes [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.englishjokes)
+- Spotilist [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.spotilist)
 
 ### JavaScript Apps [:memo:](https://github.com/ajinkyacodes/javascript-apps)
 - Movies App [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/movies-app/)
