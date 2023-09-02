@@ -24,6 +24,7 @@
 - Movies App [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/movies-app/)
 - Music Player [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/music-player/)
 - Movie Booking [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/movie-booking/)
+- Calculator [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/calculator/)
 - Text Reader [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/text-reader)
 - Weather Forecast [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/weather-forecast/)
 - Rock Paper Scissors [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/rock-paper-scissors/)
