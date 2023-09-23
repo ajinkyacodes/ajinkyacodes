@@ -16,8 +16,10 @@
 - TODOS [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.todos)
 - Currency Converter [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.currencyconverter)
 - Wallet [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.wallet)
-- English Jokes [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.englishjokes)
 - Spotilist [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.spotilist)
+- English Jokes [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.englishjokes)
+- Hindi Jokes [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.hindijokes)
+- Marathi Jokes [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.marathijokes)
 - Passgen [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.passgen)
 - TicTacToe [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.tictactoe)
 
