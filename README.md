@@ -47,4 +47,5 @@
 [<img align="left" alt="TypeScript" height ="42px" src="assets/images/typescript.png">](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 [<img align="left" alt="Git" height ="42px" src="assets/images/git.png">](https://git-scm.com/doc)
 [<img align="left" alt="AWS" height ="42px" src="assets/images/aws.png">](https://docs.aws.amazon.com/)
-[<img align="left" alt="Docker" height ="42px" src="assets/images/docker.png">](https://docs.docker.com/) 
+[<img align="left" alt="Docker" height ="42px" src="assets/images/docker.png">](https://docs.docker.com/)
+[<img align="left" alt="GitHuB Digital | ajinkyacodes" width="300px" src="assets/images/github-digital.png">](https://www.facer.io/watchface/Ft711L2TIp)
