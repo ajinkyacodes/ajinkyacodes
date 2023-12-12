@@ -9,6 +9,10 @@
 
 # 💻 Recent Projects 
 
+### NodeJS Projects
+- Simple Web Server [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/simple-web-server)
+- Express Website [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/express-website)
+
 ### ReactJS Projects
 - Task Tracker [:memo:](https://github.com/ajinkyacodes/reactjs-task-tracker)
 
