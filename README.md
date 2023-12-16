@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Ajinkya</h1>
-<h3>A software engineer from Mumbai, India</h3>
+# Hi 👋, My name is Ajinkya [:technologist:](https://ajinkyacodes.com)
+> A Software Engineer from Mumbai, India
 
 ## :pushpin: Skills
 - 👨‍💻 JavaScript
@@ -18,17 +18,6 @@
 
 ### ReactJS Projects
 - Task Tracker [:memo:](https://github.com/ajinkyacodes/reactjs-task-tracker)
-
-### Android Apps
-- TODOS [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.todos)
-- Currency Converter [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.currencyconverter)
-- Wallet [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.wallet)
-- Spotilist [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.spotilist)
-- English Jokes [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.englishjokes)
-- Hindi Jokes [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.hindijokes)
-- Marathi Jokes [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.marathijokes)
-- Passgen [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.passgen)
-- TicTacToe [:iphone:](https://play.google.com/store/apps/details?id=com.ajinkyacodes.tictactoe)
 
 ### JavaScript Apps [:memo:](https://github.com/ajinkyacodes/javascript-apps)
 - Movies App [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/movies-app/)
