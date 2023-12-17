@@ -18,6 +18,7 @@
 
 ### ReactJS Projects
 - Task Tracker [:memo:](https://github.com/ajinkyacodes/reactjs-task-tracker)
+- Workout App [:memo:](https://github.com/ajinkyacodes/reactjs-workout-app)
 
 ### JavaScript Apps [:memo:](https://github.com/ajinkyacodes/javascript-apps)
 - Movies App [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/movies-app/)
