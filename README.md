@@ -1,4 +1,4 @@
-# Hi 👋, My name is Ajinkya [:technologist:](https://ajinkyacodes.com)
+# Hi 👋, My name is Ajinkya [ℹ️](https://ajinkyacodes.com)
 > A Software Engineer from Mumbai, India
 
 ## :pushpin: Skills
