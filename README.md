@@ -9,6 +9,9 @@
 
 # 💻 Recent Projects 
 
+### MERN Stack Projects
+- Book Store App [:memo:](https://github.com/ajinkyacodes/bookstore-crud-mern)
+
 ### NodeJS Projects [:memo:](https://github.com/ajinkyacodes/nodejs-apps)
 - Simple Web Server [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/simple-web-server)
 - Express Website [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/express-website)
