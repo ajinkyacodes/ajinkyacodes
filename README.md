@@ -18,7 +18,7 @@
 
 ### :heavy_plus_sign: JavaScript Apps [:memo:](https://github.com/ajinkyacodes/javascript-apps)
 
-### 🔨 Languages and Tools:
+# 🔨 Languages and Tools:
 
 [<img align="left" alt="JavaScript" height ="42px" src="assets/images/javascript.png">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="ReactJS" height ="42px" src="assets/images/react.png">](https://devdocs.io/react/)
