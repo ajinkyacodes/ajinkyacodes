@@ -20,7 +20,7 @@
 - Portfolio App [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/portfolio)
 
 ### ReactJS Projects
-- ReactJS Components [:memo:](https://github.com/ajinkyacodes/reactjs-components)
+- ReactJS Apps [:memo:](https://github.com/ajinkyacodes/reactjs-apps)
 - Task Tracker [:memo:](https://github.com/ajinkyacodes/reactjs-task-tracker)
 - Workout App [:memo:](https://github.com/ajinkyacodes/reactjs-workout-app)
 
