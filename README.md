@@ -9,35 +9,14 @@
 
 # 💻 Recent Projects 
 
-### MERN Stack Projects
+### :heavy_plus_sign: MERN Stack Projects
 - Book Store App [:memo:](https://github.com/ajinkyacodes/bookstore-crud-mern)
 
-### NodeJS Projects [:memo:](https://github.com/ajinkyacodes/nodejs-apps)
-- Simple Web Server [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/simple-web-server)
-- Express Website [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/express-website)
-- NodeJS Authentication [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/node-auth)
-- NodeJS Blog System [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/node-blog)
-- Portfolio App [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/portfolio)
+### :heavy_plus_sign: ReactJS Apps [:memo:](https://github.com/ajinkyacodes/reactjs-apps)
 
-### ReactJS Projects
-- ReactJS Apps [:memo:](https://github.com/ajinkyacodes/reactjs-apps)
-- Task Tracker [:memo:](https://github.com/ajinkyacodes/reactjs-task-tracker)
-- Workout App [:memo:](https://github.com/ajinkyacodes/reactjs-workout-app)
+### :heavy_plus_sign: NodeJS Apps [:memo:](https://github.com/ajinkyacodes/nodejs-apps)
 
-### JavaScript Apps [:memo:](https://github.com/ajinkyacodes/javascript-apps)
-- Movies App [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/movies-app/)
-- Music Player [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/music-player/)
-- Movie Booking [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/movie-booking/)
-- Calculator [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/calculator/)
-- Text Reader [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/text-reader)
-- Weather Forecast [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/weather-forecast/)
-- Rock Paper Scissors [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/rock-paper-scissors/)
-- Drink Water [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/drink-water/)
-- Light/Dark Mode [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/light-dark-mode/)
-- Rotating Navigation [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/rotating-navigation/)
-- Netflix Navigation [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/netflix-navigation/)
-- Infinite Scroll [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/infinite-scroll/)
-- New Year Countdown [:globe_with_meridians:](https://ajinkyacodes.com/work/projects/new-year-countdown/)
+### :heavy_plus_sign: JavaScript Apps [:memo:](https://github.com/ajinkyacodes/javascript-apps)
 
 ### 🔨 Languages and Tools:
 
