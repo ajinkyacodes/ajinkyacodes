@@ -2,15 +2,15 @@
 > A Software Engineer from Mumbai, India
 
 ## :pushpin: Skills
-- 👨‍💻 JavaScript
-- ⚙️ ReactJS, NodeJS
-- 👁️ CSS, Bootstrap
-- 💽 MongoDB
+👨‍💻 JavaScript  <br/>
+⚙️ ReactJS, NodeJS <br/>
+👁️ CSS, Bootstrap <br/>
+💽 MongoDB <br/>
 
 # 💻 Recent Projects 
 
 ### :heavy_plus_sign: MERN Stack Projects
-- Book Store App [:memo:](https://github.com/ajinkyacodes/bookstore-crud-mern)
+:label: Book Store App [:memo:](https://github.com/ajinkyacodes/bookstore-crud-mern) <br/>
 
 ### :heavy_plus_sign: ReactJS Apps [:memo:](https://github.com/ajinkyacodes/reactjs-apps)
 
