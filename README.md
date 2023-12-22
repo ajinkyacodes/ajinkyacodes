@@ -2,22 +2,28 @@
 > A Software Engineer from Mumbai, India
 
 ## :pushpin: Skills
-👨‍💻 JavaScript  <br/>
-⚙️ ReactJS, NodeJS <br/>
-👁️ CSS, Bootstrap <br/>
-💽 MongoDB <br/>
+:memo: JavaScript  <br/>
+:gear: ReactJS, NodeJS <br/>
+:eye: CSS, Bootstrap <br/>
+:minidisc: MongoDB, MySQL <br/>
 
-# 💻 Recent Projects 
+# :man_technologist: < Recent Projects />
 
-### :heavy_plus_sign: MERN Stack Projects
-:label: Book Store App [:memo:](https://github.com/ajinkyacodes/bookstore-crud-mern) <br/>
-
-### :heavy_plus_sign: ReactJS Apps [:memo:](https://github.com/ajinkyacodes/reactjs-apps)
-
-### :heavy_plus_sign: NodeJS Apps [:memo:](https://github.com/ajinkyacodes/nodejs-apps)
-
-### :heavy_plus_sign: JavaScript Apps [:memo:](https://github.com/ajinkyacodes/javascript-apps)
-
+### :placard: MERN Stack Projects
+- Book Store App [:label:](https://github.com/ajinkyacodes/bookstore-crud-mern)
+---
+### :placard: ReactJS Projects
+- ReactJS Apps [:file_folder:](https://github.com/ajinkyacodes/reactjs-apps)
+- Workout App [:label:](https://github.com/ajinkyacodes/reactjs-workout-app)
+- Task Tracker App [:label:](https://github.com/ajinkyacodes/reactjs-task-tracker)
+---
+### :placard: NodeJS Projects
+- NodeJS Apps [:file_folder:](https://github.com/ajinkyacodes/nodejs-apps)
+---
+### :placard: JavaScript Projects
+- JavaScript Apps [:file_folder:](https://github.com/ajinkyacodes/javascript-apps)
+- Solar System [:label:](https://github.com/ajinkyacodes/solar-system) [:sunny:](https://ajinkyacodes.github.io/solar-system/)
+---
 # :wrench: Technologies
 
 [<img align="left" alt="JavaScript" height ="42px" src="assets/images/javascript.png">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
