@@ -14,6 +14,7 @@
 ---
 ### :placard: ReactJS Projects
 - ReactJS Apps [:file_folder:](https://github.com/ajinkyacodes/reactjs-apps)
+- Feedback App [:label:](https://github.com/ajinkyacodes/reactjs-feedback-app)
 - Workout App [:label:](https://github.com/ajinkyacodes/reactjs-workout-app)
 - Task Tracker App [:label:](https://github.com/ajinkyacodes/reactjs-task-tracker)
 ---
@@ -22,7 +23,7 @@
 ---
 ### :placard: JavaScript Projects
 - JavaScript Apps [:file_folder:](https://github.com/ajinkyacodes/javascript-apps)
-- Solar System [:label:](https://github.com/ajinkyacodes/solar-system) [:sunny:](https://ajinkyacodes.github.io/solar-system/)
+- Solar System [:label:](https://github.com/ajinkyacodes/solar-system)
 ---
 # :wrench: Technologies
 
