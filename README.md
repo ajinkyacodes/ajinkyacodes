@@ -14,6 +14,7 @@
 ---
 ### :placard: ReactJS Projects
 - ReactJS Apps [:file_folder:](https://github.com/ajinkyacodes/reactjs-apps)
+- Github Finder App [:label:](https://github.com/ajinkyacodes/reactjs-github-finder)
 - Feedback App [:label:](https://github.com/ajinkyacodes/reactjs-feedback-app)
 - Workout App [:label:](https://github.com/ajinkyacodes/reactjs-workout-app)
 - Task Tracker App [:label:](https://github.com/ajinkyacodes/reactjs-task-tracker)
