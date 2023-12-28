@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ajinkya [ℹ️](https://ajinkyacodes.com)
+# Hi :wave:, I'm Ajinkya [:information_source:](https://ajinkyacodes.com)
 > A Software Engineer from Mumbai, India
 
 ## :pushpin: Skills
@@ -7,23 +7,23 @@
 :eye: CSS, Bootstrap <br/>
 :minidisc: MongoDB, MySQL <br/>
 
-# :man_technologist: < Recent Projects />
+# :man_technologist: `< Recent Projects />`
 
 ### :placard: MERN Stack Projects
 - Book Store App [:label:](https://github.com/ajinkyacodes/bookstore-crud-mern)
 ---
 ### :placard: ReactJS Projects
-- ReactJS Apps [:file_folder:](https://github.com/ajinkyacodes/reactjs-apps)
+- ReactJS Apps [:bookmark:](https://github.com/ajinkyacodes/reactjs-apps)
 - Github Finder App [:label:](https://github.com/ajinkyacodes/reactjs-github-finder)
 - Feedback App [:label:](https://github.com/ajinkyacodes/reactjs-feedback-app)
 - Workout App [:label:](https://github.com/ajinkyacodes/reactjs-workout-app)
 - Task Tracker App [:label:](https://github.com/ajinkyacodes/reactjs-task-tracker)
 ---
 ### :placard: NodeJS Projects
-- NodeJS Apps [:file_folder:](https://github.com/ajinkyacodes/nodejs-apps)
+- NodeJS Apps [:bookmark:](https://github.com/ajinkyacodes/nodejs-apps)
 ---
 ### :placard: JavaScript Projects
-- JavaScript Apps [:file_folder:](https://github.com/ajinkyacodes/javascript-apps)
+- JavaScript Apps [:bookmark:](https://github.com/ajinkyacodes/javascript-apps)
 - Solar System [:label:](https://github.com/ajinkyacodes/solar-system)
 ---
 # :wrench: Technologies
