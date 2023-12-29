@@ -14,7 +14,7 @@
 ---
 ### :placard: ReactJS Projects
 - ReactJS Apps [:bookmark:](https://github.com/ajinkyacodes/reactjs-apps)
-- ReactJS Hooks [:label:](https://github.com/ajinkyacodes/reactjs-hooks)
+- ReactJS Hooks [:bookmark:](https://github.com/ajinkyacodes/reactjs-hooks)
 - Github Finder App [:label:](https://github.com/ajinkyacodes/reactjs-github-finder)
 - Feedback App [:label:](https://github.com/ajinkyacodes/reactjs-feedback-app)
 - Workout App [:label:](https://github.com/ajinkyacodes/reactjs-workout-app)
