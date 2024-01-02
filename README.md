@@ -5,7 +5,7 @@
 :memo: JavaScript  <br/>
 :gear: ReactJS, NodeJS <br/>
 :eye: CSS, Bootstrap <br/>
-:minidisc: MongoDB, MySQL <br/>
+:minidisc: MongoDB <br/>
 
 # :man_technologist: `< Recent Projects />`
 
@@ -26,7 +26,6 @@
 ---
 ### :placard: JavaScript Projects
 - JavaScript Apps [:bookmark:](https://github.com/ajinkyacodes/javascript-apps)
-- Solar System [:label:](https://github.com/ajinkyacodes/solar-system)
 ---
 # :wrench: Technologies
 
