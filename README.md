@@ -16,6 +16,7 @@
 - ReactJS Apps [:bookmark:](https://github.com/ajinkyacodes/reactjs-apps)
 - ReactJS Hooks [:bookmark:](https://github.com/ajinkyacodes/reactjs-hooks)
 - Prop Drilling [:bookmark:](https://github.com/ajinkyacodes/prop-drilling)
+- House Marketplace App [:label:](https://github.com/ajinkyacodes/house-marketplace-react-firebase)
 - Github Finder App [:label:](https://github.com/ajinkyacodes/reactjs-github-finder)
 - Feedback App [:label:](https://github.com/ajinkyacodes/reactjs-feedback-app)
 ---
