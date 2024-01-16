@@ -10,6 +10,7 @@
 # :man_technologist: `< Recent Projects />`
 
 ### :placard: MERN Stack Projects
+- Support Assist [:label:](https://github.com/ajinkyacodes/support-assist-mern)
 - Book Store App [:label:](https://github.com/ajinkyacodes/bookstore-crud-mern)
 ---
 ### :placard: ReactJS Projects
