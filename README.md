@@ -24,6 +24,7 @@
 ---
 ### :placard: JavaScript Projects
 - JavaScript Apps [:bookmark:](https://github.com/ajinkyacodes/javascript-apps)
+- Developer [:label:](https://github.com/ajinkyacodes/developer)
 ---
 # :wrench: Technologies
 
