@@ -1,5 +1,5 @@
 # Hi :wave:, I'm Ajinkya [:information_source:](https://ajinkyacodes.com)
-> A Fullstack Developer from Mumbai, India
+> A Full-stack Developer from Mumbai, India
 
 ## :pushpin: Skills
 :memo: Java, JavaScript, Python <br/>
