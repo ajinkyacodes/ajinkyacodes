@@ -9,6 +9,10 @@
 
 # :man_technologist: `< Recent Projects />`
 
+### :placard: Java Projects
+- Spring Boot REST API [:label:](https://github.com/ajinkyacodes/springboot-rest-api)
+- Banking App using Spring Boot [:label:](https://github.com/ajinkyacodes/banking-app-sb)
+---
 ### :placard: MERN Stack Projects
 - Support Assist [:label:](https://github.com/ajinkyacodes/support-assist-mern)
 - Book Store App [:label:](https://github.com/ajinkyacodes/bookstore-crud-mern)
