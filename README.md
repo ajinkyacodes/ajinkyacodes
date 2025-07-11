@@ -21,7 +21,7 @@
 - Feedback App [:label:](https://github.com/ajinkyacodes/reactjs-feedback-app)
 ---
 ### :placard: React Native Projects
-- Goals App [:bookmark:](https://github.com/ajinkyacodes/goals-app-rn)
+- Goals App [:label:](https://github.com/ajinkyacodes/goals-app-rn)
 ---
 # :wrench: Technologies
 
