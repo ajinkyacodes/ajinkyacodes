@@ -21,6 +21,7 @@
 - Feedback App [:label:](https://github.com/ajinkyacodes/reactjs-feedback-app)
 ---
 ### :placard: React Native Projects
+- Contact Manaager App [:label:](https://github.com/ajinkyacodes/ContactManager)
 - Goals App [:label:](https://github.com/ajinkyacodes/goals-app-rn)
 ---
 # :wrench: Technologies
